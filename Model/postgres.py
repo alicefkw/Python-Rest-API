@@ -1,4 +1,4 @@
-import dbinfo
+import connection.dbinfo as dbinfo
 
 conn = dbinfo.conn
 
