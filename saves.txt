@@ -1,0 +1,13 @@
+psql -h 127.0.0.1 -U aluno aluno
+senha: 
+
+id SERIAL PK,
+name TEXT,
+age INTEGER,
+email TEXT,
+
+springboot devtools
+spring web
+spring data jpa
+postgresql driver
+validation
